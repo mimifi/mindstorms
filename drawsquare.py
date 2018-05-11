@@ -38,7 +38,5 @@ def draw_shapes():
     draw_circle()
     draw_triangle()
 
-    window.exitonclick()
-
 
 draw_shapes()
